@@ -1,1 +1,1 @@
-WATCHED_ITEMS = {'parachute':103, 'dumbells':331}
+WATCHED_ITEMS = {'parachute':106, 'dumbells':331}
