@@ -1,0 +1,1 @@
+WATCHED_ITEMS = {'parachute':103, 'dumbells':331}
